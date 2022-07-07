@@ -1,0 +1,31 @@
+.add-blog {
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter-by {
+  white-space: nowrap;
+  margin-bottom: unset;
+  line-height: normal;
+  margin-right: 10px;
+}
+
+.list-box {
+  background-color: white;
+  padding: 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.react-datepicker__input-container input {
+  border: 1px solid rgb(155, 154, 154);
+  border-radius: 6px;
+  outline: none;
+}
+
+.empty-record-msg {
+  margin-bottom: 0;
+  text-align: center;
+}
+.font-bold {
+  font-weight: 500;
+}
